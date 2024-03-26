@@ -1,0 +1,24 @@
+.owl-carousel .owl-item img {
+  display: block;
+  width: 100%;
+  float: left;
+  border: 5px solid #fff;
+  border-radius: 20px;
+  margin-top: 15px;
+}
+
+
+
+.testimonial-content.quote {
+  padding: 17px 55px;
+}
+.et_right_sidebar #main-content .container:before {
+  display: none;
+}
+#main-content .container {
+  padding-top: 10px;
+}
+i.fa.fa-quote-left {
+  padding: 0px 10px;
+  color: #999;
+}
